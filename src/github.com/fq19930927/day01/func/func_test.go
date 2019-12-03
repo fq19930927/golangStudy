@@ -16,7 +16,7 @@ func TestFn(t *testing.T) {
 	t.Log(a)
 	spent := timeSpent(timeSlow)
 	t.Log(spent(10))
-	t.Log(	sum(1,2,3,4,5))
+	t.Log(sum(1, 2, 3, 4, 5))
 }
 
 //方法时长计算
@@ -35,20 +35,20 @@ func timeSlow(op int) int {
 }
 
 //可变参数测试
-func sum(ops ...int) int  {
+func sum(ops ...int) int {
 	s := 0
-	for _, op :=range ops {
-		s+=op
+	for _, op := range ops {
+		s += op
 	}
 	return s
 }
 
-func test1()  {
+func test1() {
 	fmt.Println("first")
 }
 
 //延时执行
-func TestDefer(t *testing.T)  {
+func TestDefer(t *testing.T) {
 	defer test1()
 	fmt.Println("second")
 	//异常
