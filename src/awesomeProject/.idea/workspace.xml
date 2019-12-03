@@ -37,69 +37,69 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestSwitchCaseCondition in awesomeProject/src/github.com/fuqiang/day01/condition">
-    <configuration name="TestCompareArray in awesomeProject/src/github.com/fuqiang/day01/operator_test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestString in awesomeProject/src/github.com/fuqiang/day01/string">
+    <configuration name="TestAccessNotExistingKey in awesomeProject/src/github.com/fuqiang/day01/map" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/operator_test" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/map" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/src/github.com/fuqiang/day01/operator_test" />
+      <package value="awesomeProject/src/github.com/fuqiang/day01/map" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestCompareArray$" />
+      <pattern value="^TestAccessNotExistingKey$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestIfMuitiSec in awesomeProject/src/github.com/fuqiang/day01/condition" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRangeTest in awesomeProject/src/github.com/fuqiang/day01/map" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/condition" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/map" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/src/github.com/fuqiang/day01/condition" />
+      <package value="awesomeProject/src/github.com/fuqiang/day01/map" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestIfMuitiSec$" />
+      <pattern value="^TestRangeTest$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSwitchCaseCondition in awesomeProject/src/github.com/fuqiang/day01/condition" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSet in awesomeProject/src/github.com/fuqiang/day01/slice" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/condition" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/slice" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/src/github.com/fuqiang/day01/condition" />
+      <package value="awesomeProject/src/github.com/fuqiang/day01/slice" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestSwitchCaseCondition$" />
+      <pattern value="^TestSet$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestSwitchMultiCase in awesomeProject/src/github.com/fuqiang/day01/condition" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestString in awesomeProject/src/github.com/fuqiang/day01/string" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/condition" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/string" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/src/github.com/fuqiang/day01/condition" />
+      <package value="awesomeProject/src/github.com/fuqiang/day01/string" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestSwitchMultiCase$" />
+      <pattern value="^TestString$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestWhileLoop in awesomeProject/src/github.com/fuqiang/day01/loop" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestValueFunc in awesomeProject/src/github.com/fuqiang/day01/map" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="awesomeProject" />
-      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/loop" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/fuqiang/day01/map" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="awesomeProject/src/github.com/fuqiang/day01/loop" />
+      <package value="awesomeProject/src/github.com/fuqiang/day01/map" />
       <directory value="$PROJECT_DIR$/" />
       <filePath value="$PROJECT_DIR$/" />
-      <pattern value="^TestWhileLoop$" />
+      <pattern value="^TestValueFunc$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestSwitchCaseCondition in awesomeProject/src/github.com/fuqiang/day01/condition" />
-        <item itemvalue="Go Test.TestSwitchMultiCase in awesomeProject/src/github.com/fuqiang/day01/condition" />
-        <item itemvalue="Go Test.TestIfMuitiSec in awesomeProject/src/github.com/fuqiang/day01/condition" />
-        <item itemvalue="Go Test.TestWhileLoop in awesomeProject/src/github.com/fuqiang/day01/loop" />
-        <item itemvalue="Go Test.TestCompareArray in awesomeProject/src/github.com/fuqiang/day01/operator_test" />
+        <item itemvalue="Go Test.TestString in awesomeProject/src/github.com/fuqiang/day01/string" />
+        <item itemvalue="Go Test.TestSet in awesomeProject/src/github.com/fuqiang/day01/slice" />
+        <item itemvalue="Go Test.TestValueFunc in awesomeProject/src/github.com/fuqiang/day01/map" />
+        <item itemvalue="Go Test.TestRangeTest in awesomeProject/src/github.com/fuqiang/day01/map" />
+        <item itemvalue="Go Test.TestAccessNotExistingKey in awesomeProject/src/github.com/fuqiang/day01/map" />
       </list>
     </recent_temporary>
   </component>
