@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="582bb5cb-889c-4f7c-8067-cf42f52aeab9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/func/func_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/func/func_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/fq19930927/day01/object/object_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,43 +14,40 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string/string_test.go">
+        <entry file="file:///go/go/src/time/sleep.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="152">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string/string2_test.go">
+        <entry file="file://$PROJECT_DIR$/src/github.com/fq19930927/day01/func/func_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding>
-                <element signature="e#16#48#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="401">
+              <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/func/func_test.go">
+        <entry file="file://$PROJECT_DIR$/src/github.com/fq19930927/day01/object/object_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+            <state relative-caret-position="208">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
               <folding>
-                <element signature="e#19#53#0" expanded="true" />
+                <element signature="e#16#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file:///go/go/src/time/sleep.go">
+        <entry file="file:///go/go/src/fmt/print.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="167">
+              <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -72,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="/go/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -83,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string/string_test.go" />
         <option value="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string/string2_test.go" />
         <option value="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/func/func_test.go" />
+        <option value="$PROJECT_DIR$/src/github.com/fq19930927/day01/object/object_test.go" />
       </list>
     </option>
   </component>
@@ -116,52 +115,31 @@
               <item name="golangStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="golangStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golangStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golangStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golangStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golangStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="github.com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golangStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="golangStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="fuqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="fq19930927" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golangStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="golangStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="fuqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="fq19930927" type="462c0819:PsiDirectoryNode" />
               <item name="day01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golangStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="golangStudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="fuqiang" type="462c0819:PsiDirectoryNode" />
+              <item name="fq19930927" type="462c0819:PsiDirectoryNode" />
               <item name="day01" type="462c0819:PsiDirectoryNode" />
-              <item name="func" type="462c0819:PsiDirectoryNode" />
+              <item name="object" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -194,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Test.TestDefer in func_test.go">
+  <component name="RunManager" selected="Go Test.TestObject in object_test.go">
     <configuration name="TestConv in string2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="golangStudy" />
       <working_directory value="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string" />
@@ -225,6 +203,16 @@
       <pattern value="^TestFn$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestObject in object_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golangStudy" />
+      <working_directory value="$PROJECT_DIR$/src/github.com/fq19930927/day01/object" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/src/github.com/fq19930927/day01/object/object_test.go" />
+      <pattern value="^TestObject$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestStringSplit in string2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="golangStudy" />
       <working_directory value="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string" />
@@ -235,45 +223,17 @@
       <pattern value="^TestStringSplit$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestStringToRune in string_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="golangStudy" />
-      <working_directory value="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string" />
-      <framework value="gotest" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$/" />
-      <filePath value="$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/string/string_test.go" />
-      <pattern value="^TestStringToRune$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestObject in object_test.go" />
         <item itemvalue="Go Test.TestDefer in func_test.go" />
         <item itemvalue="Go Test.TestFn in func_test.go" />
         <item itemvalue="Go Test.TestConv in string2_test.go" />
         <item itemvalue="Go Test.TestStringSplit in string2_test.go" />
-        <item itemvalue="Go Test.TestStringToRune in string_test.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestFn_in_func_test_go - 2019.12.02 at 22h 18m 47s.xml">
-      <configuration name="TestFn in func_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestFn_in_func_test_go - 2019.12.02 at 22h 18m 52s.xml">
-      <configuration name="TestFn in func_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestFn_in_func_test_go - 2019.12.02 at 22h 19m 08s.xml">
-      <configuration name="TestFn in func_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestFn_in_func_test_go - 2019.12.03 at 08h 32m 02s.xml">
-      <configuration name="TestFn in func_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestFn_in_func_test_go - 2019.12.03 at 08h 32m 20s.xml">
-      <configuration name="TestFn in func_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="TestFn_in_func_test_go - 2019.12.03 at 08h 32m 31s.xml">
-      <configuration name="TestFn in func_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestFn_in_func_test_go - 2019.12.03 at 08h 36m 19s.xml">
       <configuration name="TestFn in func_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -286,6 +246,24 @@
     <history-entry file="TestDefer_in_func_test_go - 2019.12.03 at 08h 40m 28s.xml">
       <configuration name="TestDefer in func_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="TestDefer_in_func_test_go - 2019.12.03 at 08h 41m 00s.xml">
+      <configuration name="TestDefer in func_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestObject_in_object_test_go - 2019.12.04 at 08h 22m 09s.xml">
+      <configuration name="TestObject in object_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestObject_in_object_test_go - 2019.12.04 at 08h 23m 20s.xml">
+      <configuration name="TestObject in object_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestObject_in_object_test_go - 2019.12.04 at 08h 23m 32s.xml">
+      <configuration name="TestObject in object_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestObject_in_object_test_go - 2019.12.04 at 08h 30m 46s.xml">
+      <configuration name="TestObject in object_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestObject_in_object_test_go - 2019.12.04 at 08h 31m 13s.xml">
+      <configuration name="TestObject in object_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -297,11 +275,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.49928468" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50143063" side_tool="true" visible="true" weight="0.3626506" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50214595" side_tool="true" visible="true" weight="0.3626506" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.3626506" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.3626506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -354,6 +332,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/func/func_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="46" column="24" lean-forward="true" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+          <folding>
+            <element signature="e#19#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file:///go/go/src/time/sleep.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -361,12 +349,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/awesomeProject/src/github.com/fuqiang/day01/func/func_test.go">
+    <entry file="file://$PROJECT_DIR$/src/github.com/fq19930927/day01/func/func_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        <state relative-caret-position="401">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///go/go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="211" column="5" selection-start-line="211" selection-start-column="5" selection-end-line="211" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/github.com/fq19930927/day01/object/object_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
           <folding>
-            <element signature="e#19#53#0" expanded="true" />
+            <element signature="e#16#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
