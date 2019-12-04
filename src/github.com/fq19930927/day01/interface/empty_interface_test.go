@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func DoSomething(p interface{})  {
+func DoSomething(p interface{}) {
 	/*if i,ok:=p.(int);ok{
 		fmt.Println("integer ", i)
 		return
@@ -15,7 +15,7 @@ func DoSomething(p interface{})  {
 		return
 	}
 	fmt.Println("unknow type")*/
-	switch v:= p.(type) {
+	switch v := p.(type) {
 	case int:
 		fmt.Println("integer ", v)
 	case string:
@@ -23,9 +23,10 @@ func DoSomething(p interface{})  {
 	default:
 		fmt.Println("unknow type")
 	}
+
 }
 
-func TestEmptyInterface(t *testing.T)  {
+func TestEmptyInterface(t *testing.T) {
 	DoSomething(10)
 	DoSomething("10")
 }

@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="582bb5cb-889c-4f7c-8067-cf42f52aeab9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/github.com/fq19930927/day01/customer_type/customer_type_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/fq19930927/day01/extend/extend_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/fq19930927/day01/interface/empty_interface_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/fq19930927/day01/interface/interface_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/github.com/fq19930927/day01/interface/empty_interface_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="399">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
               <folding>
                 <element signature="e#25#53#0" expanded="true" />
               </folding>
@@ -295,9 +291,6 @@
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="TestObject_in_object_test_go - 2019.12.04 at 08h 35m 34s.xml">
-      <configuration name="TestObject in object_test.go" configurationId="GoTestRunConfiguration" />
-    </history-entry>
     <history-entry file="TestInterface_in_interface_test_go - 2019.12.04 at 21h 04m 42s.xml">
       <configuration name="TestInterface in interface_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
@@ -325,6 +318,9 @@
     <history-entry file="TestEmptyInterface_in_empty_interface_test_go - 2019.12.04 at 22h 18m 42s.xml">
       <configuration name="TestEmptyInterface in empty_interface_test.go" configurationId="GoTestRunConfiguration" />
     </history-entry>
+    <history-entry file="TestEmptyInterface_in_empty_interface_test_go - 2019.12.04 at 22h 21m 54s.xml">
+      <configuration name="TestEmptyInterface in empty_interface_test.go" configurationId="GoTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,7 +333,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17381974" />
@@ -345,11 +340,11 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.4985694" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4985694" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4985694" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50143063" side_tool="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49785408" visible="true" weight="0.3626506" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.3626506" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -487,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/github.com/fq19930927/day01/interface/empty_interface_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="399">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
           <folding>
             <element signature="e#25#53#0" expanded="true" />
           </folding>
