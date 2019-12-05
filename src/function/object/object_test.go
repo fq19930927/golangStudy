@@ -17,7 +17,7 @@ type Employ struct {
 }
 
 //方法 不加*会进行内存拷贝
-func (e *Employ) String() string  {
+func (e *Employ) String() string {
 	fmt.Printf("address is %x", unsafe.Pointer(&e.Name))
 	return fmt.Sprintf("id %s name %s age %d", e.Id, e.Name, e.Age)
 }
@@ -30,8 +30,8 @@ func TestObject(t *testing.T) {
 	e2.Name = "Kiven"
 	t.Log(e)
 	t.Log(e1)
-	t.Log(e2)//输出&{3 Kiven 0}
-	t.Logf("e is %T", &e)//输出实例类型,加上&为指针类型
-	t.Logf("e2 is %T", e2)//输出实例类型:指针类型
+	t.Log(e2)              //输出&{3 Kiven 0}
+	t.Logf("e is %T", &e)  //输出实例类型,加上&为指针类型
+	t.Logf("e2 is %T", e2) //输出实例类型:指针类型
 	t.Log(e.String())
 }
