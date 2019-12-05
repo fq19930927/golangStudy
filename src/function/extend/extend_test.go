@@ -34,7 +34,7 @@ type Dog struct {
 	Pet
 }
 
-func TestDog(t *testing.T)  {
+func TestDog(t *testing.T) {
 	dog := new(Dog)
 	dog.Speak()
 	dog.SpeakTo("lalala")

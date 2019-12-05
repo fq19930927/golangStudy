@@ -10,7 +10,6 @@ type Programmer interface {
 }
 
 type GoProgrammer struct {
-
 }
 
 func (g *GoProgrammer) WriteHelloword() string {
@@ -18,25 +17,24 @@ func (g *GoProgrammer) WriteHelloword() string {
 }
 
 type JavaProgrammer struct {
-
 }
 
-func (j *JavaProgrammer)  WriteHelloword() string {
+func (j *JavaProgrammer) WriteHelloword() string {
 	return "java helloworld"
 }
 
-func writeFirstProgrammer(programmer Programmer)  {
+func writeFirstProgrammer(programmer Programmer) {
 	fmt.Printf("%T %v\n", programmer, programmer.WriteHelloword())
 }
 
-func TestDuotai(t *testing.T)  {
+func TestDuotai(t *testing.T) {
 	goP := new(GoProgrammer)
 	javaP := new(JavaProgrammer)
 	writeFirstProgrammer(goP)
 	writeFirstProgrammer(javaP)
 }
 
-func TestInterface(t *testing.T)  {
+func TestInterface(t *testing.T) {
 	var p Programmer
 	p = new(GoProgrammer)
 	t.Log(p.WriteHelloword())

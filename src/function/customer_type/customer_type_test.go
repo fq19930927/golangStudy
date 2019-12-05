@@ -8,8 +8,9 @@ import (
 )
 
 type IntConv func(op int) int
+
 //方法时长计算
-func timeSpent(inner func(op int) int) IntConv{
+func timeSpent(inner func(op int) int) IntConv {
 	return func(n int) int {
 		start := time.Now()
 		ret := inner(n)
