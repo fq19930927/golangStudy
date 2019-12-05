@@ -2,28 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="582bb5cb-889c-4f7c-8067-cf42f52aeab9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/function/pac/client/client_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/function/pac/server/server.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/csp/csp_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/groutine/groutine_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/share_mem/share_mem_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="efd218c0-e781-4e9b-ad6b-1deeed550708" name="New changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/condition/condition_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/condition/condition_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/constant_test/constant_try_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/constant_test/constant_try_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/customer_type/customer_type_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/customer_type/customer_type_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/error/error_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/error/error_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/error/panic_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/error/panic_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/extend/extend_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/extend/extend_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/fib/fib_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/fib/fib_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/func/func_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/func/func_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/helloworld/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/helloworld/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/interface/empty_interface_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/interface/empty_interface_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/interface/interface_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/interface/interface_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/loop/loop_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/loop/loop_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/object/object_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/object/object_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/operator_test/operator_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/operator_test/operator_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/string/string2_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/string/string2_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/string/string_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/string/string_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/test/first_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/test/first_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/github.com/fq19930927/day01/type_test/type_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/function/type_test/type_test.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +27,36 @@
   <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="4" end1="6" start2="4" end2="10" changelist="582bb5cb-889c-4f7c-8067-cf42f52aeab9" />
+        <range start1="8" end1="26" start2="12" end2="12" changelist="582bb5cb-889c-4f7c-8067-cf42f52aeab9" />
+        <range start1="43" end1="43" start2="29" end2="59" changelist="582bb5cb-889c-4f7c-8067-cf42f52aeab9" />
+        <range start1="87" end1="89" start2="103" end2="105" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="90" end1="93" start2="106" end2="110" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="94" end1="94" start2="111" end2="113" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="96" end1="97" start2="115" end2="116" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="98" end1="99" start2="117" end2="118" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="101" end1="102" start2="120" end2="121" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="104" end1="105" start2="123" end2="124" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="107" end1="108" start2="126" end2="127" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="109" end1="110" start2="128" end2="129" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="112" end1="113" start2="131" end2="132" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="115" end1="116" start2="134" end2="135" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="118" end1="119" start2="137" end2="138" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="120" end1="121" start2="139" end2="140" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="123" end1="124" start2="142" end2="143" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="126" end1="127" start2="145" end2="146" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="129" end1="130" start2="148" end2="149" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="131" end1="132" start2="150" end2="151" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="134" end1="135" start2="153" end2="154" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="137" end1="138" start2="156" end2="157" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="142" end1="147" start2="161" end2="166" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+        <range start1="179" end1="180" start2="198" end2="200" changelist="efd218c0-e781-4e9b-ad6b-1deeed550708" />
+      </ranges>
+    </file>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
