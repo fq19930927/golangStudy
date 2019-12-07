@@ -30,3 +30,26 @@ func TestFirstResponse(t *testing.T) {
 	time.Sleep(time.Second * 1)
 	t.Log("after", runtime.NumGoroutine())
 }
+
+func AllResponse() string {
+	numOfRunner := 10
+	ch := make(chan string, 10)
+	for i := 0; i < numOfRunner; i++ {
+		go func(i int) {
+			ret := runTask(i)
+			ch <- ret
+		}(i)
+	}
+	finalRet := ""
+	for i := 0; i < numOfRunner; i++ {
+		finalRet += <-ch + "\n"
+	}
+	return finalRet
+}
+
+func TestAllResponse(t *testing.T) {
+	t.Log("before: ", runtime.NumGoroutine())
+	t.Log(AllResponse())
+	time.Sleep(time.Second * 1)
+	t.Log("after", runtime.NumGoroutine())
+}
